@@ -1,0 +1,28 @@
+{
+  "name": "backend_server06_post",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-WD-22-D01/backend_server06_post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-WD-22-D01/backend_server06_post/issues"
+  },
+  "homepage": "https://github.com/FbW-WD-22-D01/backend_server06_post#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lowdb": "^3.0.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}

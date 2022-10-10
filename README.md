@@ -1,4 +1,4 @@
-# Record Store Backend with lowDB
+# Record Store Backend with lowDB - SOlution
 
 
 Erstelle ein kleines Backend mit lowDB für einen Record Shop. Die API sollte folgende Endpunkte haben:
@@ -9,14 +9,3 @@ Erstelle ein kleines Backend mit lowDB für einen Record Shop. Die API sollte fo
 
 --> Nach dem erfolgreichen Eintragen, soll die `POST` Route einen kurzen String zurückgeben, dass der Vorgang erfolgreich war...
 
-Die Datenstruktur der einzelnen Records sollte wie folgt aussehen:
-```
-const record = {
-  id: '12345'
-  label: 'I am a record label',
-  title: 'My greatest hits',
-  artist: 'The Humpas',
-  year: '1981',
-  category: ['Schlager', 'Kneipenhits']
-}
-```

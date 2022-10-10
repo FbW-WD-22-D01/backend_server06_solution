@@ -1,0 +1,13 @@
+[
+  {
+    "id": "12345",
+    "label": "I am a record label",
+    "title": "My greatest hits",
+    "artist": "The Humpas",
+    "year": "1981",
+    "category": [
+      "Schlager",
+      "Kneipenhits"
+    ]
+  }
+]
