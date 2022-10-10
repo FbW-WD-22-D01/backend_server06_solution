@@ -1,4 +1,4 @@
-# Record Store Backend with lowDB - SOlution
+# Record Store Backend with lowDB - Solution
 
 
 Erstelle ein kleines Backend mit lowDB für einen Record Shop. Die API sollte folgende Endpunkte haben:
